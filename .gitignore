@@ -1,0 +1,5 @@
+.env
+data/
+assets/musica/*.mp3
+__pycache__/
+.venv/
